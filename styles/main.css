@@ -136,6 +136,10 @@ footer {
             'footer';
     }
 
+    header {
+        flex-direction: column;
+    }
+
     section {
         max-width: 100%;
     }
